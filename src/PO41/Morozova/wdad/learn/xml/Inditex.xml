@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><organization name="Inditex">
+   <department name="design">
+        <employee firstname="Abigail" secondname="James">
+            <hairdate>3-03-2015</hairdate>
+            <salary>1000</salary>
+            <jobtitle value="manager"/>
+        </employee>
+        <employee firstname="Alexa" secondname="Nelson">
+            <hairdate>3-22-2007</hairdate>
+            <salary>14000</salary>
+            <jobtitle value="head"/>
+        </employee>
+   </department>
+   <department name="accounting">
+       <employee firstname="Daniel" secondname="Richards">
+           <hairdate>16-08-2009</hairdate>
+           <salary>5000</salary>
+           <jobtitle value="secretery"/>
+       </employee>
+   </department>
+   <department name="financial">
+       <employee firstname="Julia" secondname="Johnson">
+           <hairdate>28-06-2013</hairdate>
+           <salary>3000</salary>
+           <jobtitle value="assistant"/>
+       </employee>
+   </department>
+   <department name="legal">
+       <employee firstname="Carlos" secondname="Adamson">
+           <hairdate>1-11-2007</hairdate>
+           <salary>10500</salary>
+           <jobtitle value="head"/>
+       </employee>
+  </department>
+</organization>
